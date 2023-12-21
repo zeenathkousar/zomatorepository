@@ -1,0 +1,42 @@
+ [
+    {
+
+ "restaurant":"1",
+  "menu":[{
+    "food_type":"type1",
+    "name":"Lunch",
+    "price":"400",
+    "description":"good taste"
+ }]
+    },
+    {
+
+        "restaurant":"2",
+         "menu":[{
+           "food_type":"type2",
+           "name":"Breakfast",
+           "price":"500",
+           "description":"better taste"
+        }]
+       },
+       {
+
+        "restaurant":"3",
+         "menu":[{
+           "food_type":"type3",
+           "name":"Dinner",
+           "price":"600",
+           "description":"good taste"
+        }]
+       },
+       {
+
+        "restaurant":"4",
+         "menu":[{
+           "food_type":"type4",
+           "name":"Lunch",
+           "price":"400",
+           "description":"good taste"
+        }]
+       }
+    ]
